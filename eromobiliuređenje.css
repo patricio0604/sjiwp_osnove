@@ -1,0 +1,69 @@
+.stranica1 {
+    color: white;
+    background-color: white;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+   text-decoration: none;
+    border-style: solid;
+    border-color: black;
+    margin-right: 400;
+}
+.p :hover{background-color: gray;
+color: azure;}
+.s:hover{
+    background-color: gray;
+    color: azure;
+}
+.zkr:hover{
+    background-color: gray;
+    color: azure;
+}
+.k:hover{
+    background-color: gray;
+    color: azure;
+}
+.ig:hover{
+    background-color: gray;
+    color: azure;
+}
+}
+.tablicaspecifikacija, th, td{
+   border: 20px black;
+   border-collapse:  collapse;
+}
+th{
+   background-color: rgb(156, 207, 211);
+   color: black;
+   padding: 3px;
+}
+td{
+   padding: 30px;
+}
+.tablicaspecifikacija th, td{
+border-radius: 10px;
+}
+.slike3{
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    gap: 50px;
+    justify-content: center;
+    
+}
+.slike3 img{
+    height: 100px;
+    width: 400px;
+}
+.vbs
+{
+background-color: blueviolet
+;
+font-size: larger;
+}
+.c{
+    color: blueviolet;
+    
+}
+body{
+    background-color: darkgrey;
+}

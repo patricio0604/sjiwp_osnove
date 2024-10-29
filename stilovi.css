@@ -48,3 +48,14 @@ td{
 table th, td{
 border-radius: 10px;
 }
+.stranice {
+    color: cornsilk;
+    background-color: lightskyblue;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    text-decoration: none;
+    border-style: solid;
+    border-color: #14274e;
+    margin-right: 1273;
+}
